@@ -1,0 +1,32 @@
+aid: pirate-weather
+name: Pirate Weather
+description: "Free weather API with forecast data similar to Dark Sky"
+url: https://pirateweather.net/en/latest/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Weather"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Weather
+  - Public APIs
+apis:
+  - name: Pirate Weather
+    description: "Free weather API with forecast data similar to Dark Sky"
+    humanURL: https://pirateweather.net/en/latest/
+    baseURL: https://pirateweather.net/en/latest/
+    tags:
+      - Weather
+    properties:
+      - type: Documentation
+        url: https://pirateweather.net/en/latest/
+common:
+  - type: Website
+    url: https://pirateweather.net/en/latest/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
