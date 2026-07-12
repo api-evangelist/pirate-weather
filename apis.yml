@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://pirateweather.net/en/latest/
 common:
+  - type: DomainSecurity
+    url: security/pirate-weather-domain-security.yml
   - type: Website
     url: https://pirateweather.net/en/latest/
   - type: PublicAPIsListing
