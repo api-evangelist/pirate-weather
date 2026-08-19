@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/pirate-wea
 name: Pirate Weather
 description: "Free weather API with forecast data similar to Dark Sky"
 url: https://pirateweather.net/en/latest/
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
