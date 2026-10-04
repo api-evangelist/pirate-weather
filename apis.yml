@@ -39,7 +39,6 @@ apis:
   - name: Pirate Weather
     description: "Free weather API with forecast data similar to Dark Sky"
     humanURL: https://pirateweather.net/en/latest/
-    baseURL: https://pirateweather.net/en/latest/
     tags:
       - Weather
     properties:
